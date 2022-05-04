@@ -1,16 +1,14 @@
-# flutter_set_state
+This repo contains files that are part of the post [6 easy tips when working with setState in a Flutter application](https://xeladu.medium.com).
 
-A new Flutter project.
+# Content
 
-## Getting Started
+The repository contains example code on how to work with setState in a Flutter application.
 
-This project is a starting point for a Flutter application.
+# Support
 
-A few resources to get you started if this is your first Flutter project:
+If you like this post or my work in general, feel free to support me in any way ❤
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- You can [become a Medium member](https://medium.com/@xeladu/membership) with my referral link for just $5 a month 💖
+- You can [buy me a coffee](https://www.buymeacoffee.com/xeladu) ☕
+- You can [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=JPWK39GGPAAFQ) 🎁
+- You can [check out my freebies and curated lists](https://linktr.ee/xeladu) 📣
